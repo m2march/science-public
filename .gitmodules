@@ -1,0 +1,3 @@
+[submodule "tht-dist"]
+	path = tht-dist
+	url = https://github.com/m2march/tht-dist
