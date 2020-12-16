@@ -1,3 +1,6 @@
 [submodule "tht-dist"]
 	path = tht-dist
 	url = https://github.com/m2march/tht-dist
+[submodule "tapping_setup"]
+	path = tapping_setup
+	url = https://github.com/m2march/tapping_setup.git
