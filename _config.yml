@@ -1,4 +1,4 @@
 theme: jekyll-theme-minimal
 title: Martin Miguel’s Research Hub
-descriptions: Relevant links to access publications, posters, code and other resources.
-show_downloads: false
+description: Relevant links to access publications, posters, code and other resources.
+show_download: false
