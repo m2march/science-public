@@ -1,6 +1,6 @@
 ## About Me
 I'm a Computer Scientists currently researching rhythm cognition. I focus on
-developing models of [beat expectations](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0242207), 
+developing models of [beat expectation](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0242207), 
 with focus on producing observations of relevance for experimental research.
 I am mostly interested in how the timing of events can produce affective
 respones in a listener.
