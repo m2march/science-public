@@ -1,4 +1,4 @@
-## Martin Miguel's Research Hub
+## Links
 
 ### [Open Science Foundation Site](https://osf.io/s9aym/)
 
